@@ -1,0 +1,11 @@
+// Example
+function minusSeven(num) {
+  return num - 7;
+}
+
+function timesFive(n) {
+  return n*5;
+}
+var ans=timesFive(5)
+var ans=timesFive(10)
+var ans=timesFive(0)
